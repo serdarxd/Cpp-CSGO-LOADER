@@ -1,0 +1,10 @@
+﻿  Main.cpp
+c:\users\yusuf serdar\desktop\new source\loader-masters\c++ loader\c++ loader\main.cpp(2021): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+c:\users\yusuf serdar\desktop\new source\loader-masters\c++ loader\c++ loader\main.cpp(12821): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+c:\users\yusuf serdar\desktop\new source\loader-masters\c++ loader\c++ loader\main.cpp(12828): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+  Kod üretiliyor
+  25 of 907 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  C++ Loader.vcxproj -> C:\Users\Yusuf Serdar\Desktop\new source\Loader-masters\C++ Loader\Release\loader.exe
